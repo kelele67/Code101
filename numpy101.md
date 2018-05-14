@@ -1,3 +1,5 @@
+## [learn from](https://www.machinelearningplus.com/python/101-numpy-exercises-python/)
+
 ## 101 NumPy Exercises for Data Analysis (Python)
 
 1. Import numpy as np and see the version
